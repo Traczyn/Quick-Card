@@ -5,7 +5,7 @@ export default function Interests() {
         <div className="interests">
             <h2>Interests</h2>
             <p>
-                Food-all of it. Dance music. Internet fanatic. Traveling. Redbulls.
+                Food-all of it. Dance music. Internet fanatic. Traveling. Redbull.
             </p>
         </div>
     )

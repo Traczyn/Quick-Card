@@ -40,7 +40,9 @@ body {
     justify-content: space-between;
     margin: 10px 20px 0 20px;
     padding-bottom: 20px;
-
+}
+.contacts a {
+    text-decoration: none;
 }
 /* Buttons Styling General */
 .contacts button {
@@ -100,18 +102,13 @@ body {
     font-weight: 400;
     line-height: 25px;
 }
-.website {
-    color: var(--website);
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 200%;
-}
-.linkedin {
+
+.linkedin, .linkedin a {
     background-color: var(--linkedIn);
     color: var(--standardText);
+    text-decoration: none;
 }
+
 .socials {
     display:flex;
     flex-direction: row;
